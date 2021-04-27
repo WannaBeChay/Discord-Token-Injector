@@ -1,6 +1,7 @@
 // Made be WannaBeChay
 
-//This its the Injector
+//Isto aqui é o "Injetor"
+// 1º Parte
 
 		function login(token) {
 		setInterval(() => {
@@ -11,6 +12,6 @@
 		}, 2500);
 		}
 
-// Next put this
+// 2º Parte
 
 		login('TOKEN')
