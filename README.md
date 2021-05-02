@@ -3,7 +3,7 @@
 ## Aviso
 
 * Não me responsabilizo pelo uso desta "script".
-* Foi criado e publico por mim aqui apenas para uso educacional.
+* Foi criado e publicado por mim aqui apenas para uso educacional.
 
 ## Como usar
 
